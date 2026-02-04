@@ -1,6 +1,4 @@
-# Manual-Testing-Project-Hellobooks
-# Manual Testing Project
-
+# Manual-Testing-Project-Hellobook
 This repository contains manual test cases for the Sales Invoice module of Hellobooks.ai.
 
 - Create, edit, and delete invoice testing
