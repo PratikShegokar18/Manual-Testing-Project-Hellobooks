@@ -1,4 +1,5 @@
-# Manual-Testing-Project-Hellobook
+# Manual_Test_Report_Sales_Invoice.pdf
+
 # About
 This project contains manual test cases for the Sales Invoice module of the Hellobooks.ai application.
 
