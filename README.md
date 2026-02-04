@@ -1,8 +1,28 @@
 # Manual-Testing-Project-Hellobook
-This repository contains manual test cases for the Sales Invoice module of Hellobooks.ai.
+# Manual Testing Project
 
-- Create, edit, and delete invoice testing
-- Invoice calculation validation
-- Trial Balance and Ledger verification
+# About
+This project contains manual test cases for the Sales Invoice module of the Hellobooks.ai application.
 
-Author: Pratik Shegokar
+# Application
+- Name: Hellobooks.ai
+- Module: Sales – Invoice
+- Testing Type: Manual Testing
+
+  # Testing Covered
+- Create invoice
+- Edit invoice
+- Delete invoice
+- Invoice calculation check
+- Trial Balance check
+- General Ledger check
+
+# Accounting Validation
+- Debit: Accounts Receivable
+- Credit: Sales Revenue
+
+# Files
+- Manual Test Case Report
+
+# Author
+Pratik Shegokar
